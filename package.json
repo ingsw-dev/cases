@@ -16,10 +16,19 @@
     "build": "next build",
     "start": "next start"
   },
-  "keywords": ["pwa", "cases", "behavioral-design"],
+  "keywords": [
+    "pwa",
+    "cases",
+    "behavioral-design"
+  ],
   "env": {
     "NODE_ENV": "production"
   },
   "author": "Gabriel Chertok <gchertok@ingsw.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "now": "^11.1.7",
+    "now-no-alias": "^1.0.4",
+    "now-realias": "^1.1.2"
+  }
 }
