@@ -1,0 +1,145 @@
+@font-face {
+  font-family: 'FuseV2Display-Black';
+  src: url('../fonts/336005_0_0.eot');
+  src: url('../fonts/336005_0_0.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/336005_0_0.woff2') format('woff2'), url('../fonts/336005_0_0.woff') format('woff'),
+    url('../fonts/336005_0_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'FuseV2Display-BlackItalic';
+  src: url('../fonts/336005_1_0.eot');
+  src: url('../fonts/336005_1_0.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/336005_1_0.woff2') format('woff2'), url('../fonts/336005_1_0.woff') format('woff'),
+    url('../fonts/336005_1_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'FuseV2Display-BookItalic';
+  src: url('../fonts/336005_2_0.eot');
+  src: url('../fonts/336005_2_0.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/336005_2_0.woff2') format('woff2'), url('../fonts/336005_2_0.woff') format('woff'),
+    url('../fonts/336005_2_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'FuseV2Display-Book';
+  src: url('../fonts/336005_3_0.eot');
+  src: url('../fonts/336005_3_0.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/336005_3_0.woff2') format('woff2'), url('../fonts/336005_3_0.woff') format('woff'),
+    url('../fonts/336005_3_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'FuseV2Display-BoldItalic';
+  src: url('../fonts/336005_4_0.eot');
+  src: url('../fonts/336005_4_0.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/336005_4_0.woff2') format('woff2'), url('../fonts/336005_4_0.woff') format('woff'),
+    url('../fonts/336005_4_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'FuseV2Display-Bold';
+  src: url('../fonts/336005_5_0.eot');
+  src: url('../fonts/336005_5_0.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/336005_5_0.woff2') format('woff2'), url('../fonts/336005_5_0.woff') format('woff'),
+    url('../fonts/336005_5_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'FuseV2Display-ExtraBoldItalic';
+  src: url('../fonts/336005_6_0.eot');
+  src: url('../fonts/336005_6_0.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/336005_6_0.woff2') format('woff2'), url('../fonts/336005_6_0.woff') format('woff'),
+    url('../fonts/336005_6_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'FuseV2Display-ExtraBold';
+  src: url('../fonts/336005_7_0.eot');
+  src: url('../fonts/336005_7_0.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/336005_7_0.woff2') format('woff2'), url('../fonts/336005_7_0.woff') format('woff'),
+    url('../fonts/336005_7_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'FuseV2Display-LightItalic';
+  src: url('../fonts/336005_8_0.eot');
+  src: url('../fonts/336005_8_0.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/336005_8_0.woff2') format('woff2'), url('../fonts/336005_8_0.woff') format('woff'),
+    url('../fonts/336005_8_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'FuseV2Display-Light';
+  src: url('../fonts/336005_9_0.eot');
+  src: url('../fonts/336005_9_0.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/336005_9_0.woff2') format('woff2'), url('../fonts/336005_9_0.woff') format('woff'),
+    url('../fonts/336005_9_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'FuseV2Display-RegularItalic';
+  src: url('../fonts/336005_A_0.eot');
+  src: url('../fonts/336005_A_0.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/336005_A_0.woff2') format('woff2'), url('../fonts/336005_A_0.woff') format('woff'),
+    url('../fonts/336005_A_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'FuseV2Display-Regular';
+  src: url('../fonts/336005_B_0.eot');
+  src: url('../fonts/336005_B_0.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/336005_B_0.woff2') format('woff2'), url('../fonts/336005_B_0.woff') format('woff'),
+    url('../fonts/336005_B_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'FuseV2Display-ThinItalic';
+  src: url('../fonts/336005_C_0.eot');
+  src: url('../fonts/336005_C_0.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/336005_C_0.woff2') format('woff2'), url('../fonts/336005_C_0.woff') format('woff'),
+    url('../fonts/336005_C_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'FuseV2Display-Thin';
+  src: url('../fonts/336005_D_0.eot');
+  src: url('../fonts/336005_D_0.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/336005_D_0.woff2') format('woff2'), url('../fonts/336005_D_0.woff') format('woff'),
+    url('../fonts/336005_D_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'FuseV2Display-UltraBlackItalic';
+  src: url('../fonts/336005_E_0.eot');
+  src: url('../fonts/336005_E_0.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/336005_E_0.woff2') format('woff2'), url('../fonts/336005_E_0.woff') format('woff'),
+    url('../fonts/336005_E_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'FuseV2Display-UltraBlack';
+  src: url('../fonts/336005_F_0.eot');
+  src: url('../fonts/336005_F_0.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/336005_F_0.woff2') format('woff2'), url('../fonts/336005_F_0.woff') format('woff'),
+    url('../fonts/336005_F_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'FuseV2Display-UltraLightItalic';
+  src: url('../fonts/336005_10_0.eot');
+  src: url('../fonts/336005_10_0.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/336005_10_0.woff2') format('woff2'),
+    url('../fonts/336005_10_0.woff') format('woff'),
+    url('../fonts/336005_10_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'FuseV2Display-UltraLight';
+  src: url('../fonts/336005_11_0.eot');
+  src: url('../fonts/336005_11_0.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/336005_11_0.woff2') format('woff2'),
+    url('../fonts/336005_11_0.woff') format('woff'),
+    url('../fonts/336005_11_0.ttf') format('truetype');
+}
